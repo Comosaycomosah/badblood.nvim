@@ -40,7 +40,7 @@ local function get_groups()
 
 		-- UI groups
 		Cursor = { fg = palette.cursor_text, bg = palette.cursor },
-		CursorLine = { bg = palette.color0 }, -- Subtle dark red for current line
+		CursorLine = { bg = palette.color0 },
 		CursorColumn = { bg = palette.color1 },
 		LineNr = { fg = palette.color8 },
 		CursorLineNr = { fg = palette.fg, bold = true },

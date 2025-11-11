@@ -1,2 +1,2 @@
--- colors/redterminal.lua
+-- colors/badblood.lua
 require("badblood").setup()
