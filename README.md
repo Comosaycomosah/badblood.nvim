@@ -3,12 +3,10 @@
 A bold, red-themed [Neovim](https://github.com/neovim/neovim) colorscheme, designed to match the theme [BadBlood](https://github.com/HyDE-Project/hyde-gallery/blob/master/Bad%20Blood/preview.png) an extra in [Hyde](https://github.com/HyDE-Project/HyDE).
 
 ![Demo Screenshot](screenshots/demo.png)
-_(Screenshot of badblood.nvim in a Markdown editing session)_
 
 ## ✨ Features
 
-- Dark background (#040000) with vibrant red foreground (#FF2222).
-- Supports Tree-sitter syntax, LSP diagnostics, and common plugins like Telescope, NvimTree, and Blink.
+- Supports Tree-sitter syntax, LSP diagnostics, and common plugins like Telescope, Snacks, and Blink.
 - Integrated terminal colors for seamless `:terminal` usage.
 - Easy to customize via the `palette.lua` file.
 
