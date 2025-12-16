@@ -1,5 +1,8 @@
 # 🩸 Bad Blood
 
+![License](https://img.shields.io/github/license/comosaycomosah/badblood.nvim?color=purple&style=flat-square)
+![Neovim Version](https://img.shields.io/badge/Neovim-0.9%2B-%23bf155b)
+
 A bold, red-themed [Neovim](https://github.com/neovim/neovim) colorscheme, designed to match the theme [BadBlood](https://github.com/HyDE-Project/hyde-gallery/blob/master/Bad%20Blood/preview.png) an extra in [Hyde](https://github.com/HyDE-Project/HyDE).
 
 ![Demo Screenshot](screenshots/demo.png)
@@ -12,7 +15,7 @@ A bold, red-themed [Neovim](https://github.com/neovim/neovim) colorscheme, desig
 
 ## ✅ Requirements
 
-- [Neovim](https://github.com/neovim/neovim) 0.8+ (recommended 0.9+ for full features).
+- [Neovim](https://github.com/neovim/neovim) 0.9+ (recommended)
 - `set termguicolors` in your `init.vim` or `init.lua`
 
 ## 📦 Installation
